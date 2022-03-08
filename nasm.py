@@ -48,7 +48,6 @@ class Nasm:
 
 
 if __name__ == "__main__":
-    
 
     if len(sys.argv) < 2:
         print(f"{Fore.RED}usage: py nasm.py <filename>{Style.RESET_ALL}")
